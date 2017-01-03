@@ -17,7 +17,6 @@ Thumbs.db
 # https://github.com/github/gitignore/blob/master/WordPress.gitignore
 sitemap.xml
 sitemap.xml.gz
-license.txt
 public/*.php
 public/*.phar
 public/wp-admin
@@ -35,4 +34,4 @@ public/wp-content/themes
 public/wp-content/uploads/
 public/wp-content/upgrade/
 public/wp-content/wp-cache-config.php
-readme.html
+wp-meta
